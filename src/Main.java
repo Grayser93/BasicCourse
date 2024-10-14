@@ -4,5 +4,7 @@ public class Main {
         short b = 20000;
         int c = 1000000;
         long d = 1000000000;
+
+
     }
 }
